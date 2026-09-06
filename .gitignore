@@ -1,0 +1,9 @@
+.claude
+.db
+.DS_Store
+.env
+.github
+.vscode
+node_modules
+dist
+/.workbuddy
